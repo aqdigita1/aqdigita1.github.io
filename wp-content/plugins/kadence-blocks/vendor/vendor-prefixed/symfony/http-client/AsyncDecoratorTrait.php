@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;KadenceWP\KadenceBlocks\Symfony\Component\HttpClient\DecoratorTrait&quot; not found in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-blocks/vendor/vendor-prefixed/symfony/http-client/AsyncDecoratorTrait.php</b> on line <b>27</b><br>

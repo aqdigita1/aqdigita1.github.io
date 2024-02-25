@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;KadenceWP\KadenceStarterTemplates\Symfony\Component\HttpClient\Exception\HttpExceptionTrait&quot; not found in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-starter-templates/vendor/vendor-prefixed/symfony/http-client/Exception/ClientException.php</b> on line <b>24</b><br>

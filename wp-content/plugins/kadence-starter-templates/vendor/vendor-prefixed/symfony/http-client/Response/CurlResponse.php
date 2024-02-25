@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;KadenceWP\KadenceStarterTemplates\Symfony\Component\HttpClient\Response\CommonResponseTrait&quot; not found in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-starter-templates/vendor/vendor-prefixed/symfony/http-client/Response/CurlResponse.php</b> on line <b>31</b><br>
