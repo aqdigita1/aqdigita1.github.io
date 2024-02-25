@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;KadenceWP\KadenceStarterTemplates\StellarWP\Uplink\Traits\With_Debugging&quot; not found in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-starter-templates/vendor/vendor-prefixed/stellarwp/uplink/src/Uplink/API/V3/Auth/Auth_Url.php</b> on line <b>19</b><br>

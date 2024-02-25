@@ -1,0 +1,5 @@
+<br>
+<b>Fatal error</b>:  Uncaught Error: Interface &quot;KadenceWP\KadenceBlocks\Monolog\Processor\ProcessorInterface&quot; not found in /Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-blocks/vendor/vendor-prefixed/monolog/monolog/src/Monolog/Processor/UidProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-blocks/vendor/vendor-prefixed/monolog/monolog/src/Monolog/Processor/UidProcessor.php</b> on line <b>27</b><br>

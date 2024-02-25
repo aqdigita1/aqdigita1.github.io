@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;KadenceWP\KadenceStarterTemplates\Symfony\Component\HttpClient\HttpClientTrait&quot; not found in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-starter-templates/vendor/vendor-prefixed/symfony/http-client/ScopingHttpClient.php</b> on line <b>30</b><br>

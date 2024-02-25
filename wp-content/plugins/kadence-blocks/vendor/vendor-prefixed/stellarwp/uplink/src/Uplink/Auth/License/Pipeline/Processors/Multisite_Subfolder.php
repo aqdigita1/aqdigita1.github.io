@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;KadenceWP\KadenceBlocks\StellarWP\Uplink\Auth\License\Pipeline\Traits\Multisite_Trait&quot; not found in <b>/Users/ammarqureshi/Local Sites/aqdigital/app/public/wp-content/plugins/kadence-blocks/vendor/vendor-prefixed/stellarwp/uplink/src/Uplink/Auth/License/Pipeline/Processors/Multisite_Subfolder.php</b> on line <b>15</b><br>
